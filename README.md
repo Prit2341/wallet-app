@@ -1,16 +1,18 @@
-# walletapp
+# Wallet app
+  > This is the Wallet app that trck your finace and make easy to control your money flow below we give preview of the app
 
-A new Flutter project.
 
-## Getting Started
+### Wallet page
+<img src = "https://user-images.githubusercontent.com/83399207/185298556-e4bce645-45ba-4722-b269-c7bba5080619.jpg" width = 30%/>
 
-This project is a starting point for a Flutter application.
+### Contect Page
+<img src = "https://user-images.githubusercontent.com/83399207/185300026-acc3d9b2-8c3a-446d-9ae9-bed3c4173ee8.jpg" width = 30%/>
 
-A few resources to get you started if this is your first Flutter project:
+### Send Money Page
+<img src = "https://user-images.githubusercontent.com/83399207/185300137-eb77b997-7497-42a9-8e94-efd6bf7a9176.jpg" width = 30%/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Drawer Page
+<img src = "https://user-images.githubusercontent.com/83399207/185300572-d6c7f4df-2dd2-4454-8cc8-c743b8a5738d.jpg" width = 30%/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
